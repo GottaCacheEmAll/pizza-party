@@ -1,0 +1,8 @@
+You make some changes to your local repo:
+- add those iles
+- commit those files
+- push those files to your FORKED version
+- from the forked version, we can make a pull request
+- click New Pull Request
+- ideally, someone other than you will review and merge the PR
+- once that is merged, EVERYONE on the team should do a git pull upstream master
